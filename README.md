@@ -49,7 +49,7 @@
 | Title | Venue | PDF | CODE |
 | :-----|:-----:|:---:|:----:|
 | A deep one-shot network for query-based logo retrieval | PR | [PDF](https://arxiv.org/pdf/1811.01395.pdf) | - |
-| PANet: Few-Shot Image Semantic Segmentation with Prototype Alignment | ICCV | [PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_PANet_Few-Shot_Image_Semantic_Segmentation_With_Prototype_Alignment_ICCV_2019_paper.pdf) | [CODE](https://github.com/kaixin96/PANet) |
+| PANet: Few-Shot Image Semantic Segmentation with Prototype Alignment :white_check_mark: | ICCV | [PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_PANet_Few-Shot_Image_Semantic_Segmentation_With_Prototype_Alignment_ICCV_2019_paper.pdf) | [CODE](https://github.com/kaixin96/PANet) |
 | Pyramid Graph Networks with Connection Attentions for Region-Based One-Shot Semantic Segmentation | ICCV | [PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Zhang_Pyramid_Graph_Networks_With_Connection_Attentions_for_Region-Based_One-Shot_Semantic_ICCV_2019_paper.pdf)| - |
 | AMP: Adaptive Masked Proxies for Few-Shot Segmentation | ICCV | [PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Siam_AMP_Adaptive_Masked_Proxies_for_Few-Shot_Segmentation_ICCV_2019_paper.pdf) | [CODE](https://github.com/MSiam/AdaptiveMaskedProxies) |
 | Feature Weighting and Boosting for Few-Shot Segmentation |  ICCV | [PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Nguyen_Feature_Weighting_and_Boosting_for_Few-Shot_Segmentation_ICCV_2019_paper.pdf) | - |
